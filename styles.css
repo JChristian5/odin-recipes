@@ -1,0 +1,27 @@
+* {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    background: #F1DDBF;
+    margin: 5px 5px 5px 5px;
+    color: #92BA92;
+}
+
+img {
+    background-color: #525E75;
+    padding: 20px 50px;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+}
